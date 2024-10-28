@@ -1,3 +1,8 @@
+## **Introduce**
+> 하이미디어 강남 AI-X 4기 A1팀 입니다
+
+## **Project**
+
 <details>
   <summary>미니프로젝트 - 약국이 | Yaggugi</summary>
   
@@ -73,20 +78,6 @@
   
   ## 🩺 **Folder Structure**
   
-  ## 🩺 **Contributor**
-  
-  - stjoo0925 | 주순태 | [깃허브](https://github.com/Stjoo0925)
-  
-  - ppudding3861 | 강형석 | [깃허브](https://github.com/ppudding3861)
-  
-  - shaneee123 | 이세인 | [깃허브](https://github.com/shaneee123)
-  
-  - Yesssung | 박예정 | [깃허브](https://github.com/Yesssung)
-  
-  - Bigdata92 | 송지섭 | [깃허브](https://github.com/Bigdata92)
-  
-  - kimkunook | 김건욱 | [깃허브](https://github.com/kimkunook)
-  
   ## 🩺 **Stack**
   ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
   ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
@@ -103,3 +94,16 @@
   작성예정입니다
 </details>
 
+##  **Contributor**
+
+- stjoo0925 | 주순태 | [깃허브](https://github.com/Stjoo0925)
+
+- ppudding3861 | 강형석 | [깃허브](https://github.com/ppudding3861)
+
+- shaneee123 | 이세인 | [깃허브](https://github.com/shaneee123)
+
+- Yesssung | 박예정 | [깃허브](https://github.com/Yesssung)
+
+- Bigdata92 | 송지섭 | [깃허브](https://github.com/Bigdata92)
+
+- kimkunook | 김건욱 | [깃허브](https://github.com/kimkunook)

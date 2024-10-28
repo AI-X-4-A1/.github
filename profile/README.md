@@ -78,8 +78,15 @@
 
 - Yesssung | 박예정 | [깃허브](https://github.com/Yesssung)
 
-- wltkqdl | 송지섭 | [깃허브](https://github.com/wltkqdl)
+- Bigdata92 | 송지섭 | [깃허브](https://github.com/Bigdata92)
 
 - kimkunook | 김건욱 | [깃허브](https://github.com/kimkunook)
 
 ## 🩺 **Stack**
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD300?logo=huggingface&logoColor=black)
+![Transformers](https://img.shields.io/badge/Transformers-FFD300?logo=huggingface&logoColor=black)

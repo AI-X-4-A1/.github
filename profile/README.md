@@ -70,4 +70,16 @@
 
 ## 🩺 **Contributor**
 
+- stjoo0925 | 주순태 | [깃허브](https://github.com/Stjoo0925)
+
+- ppudding3861 | 강형석 | [깃허브](https://github.com/ppudding3861)
+
+- shaneee123 | 이세인 | [깃허브](https://github.com/shaneee123)
+
+- Yesssung | 박예정 | [깃허브](https://github.com/Yesssung)
+
+- wltkqdl | 송지섭 | [깃허브](https://github.com/wltkqdl)
+
+- kimkunook | 김건욱 | [깃허브](https://github.com/kimkunook)
+
 ## 🩺 **Stack**

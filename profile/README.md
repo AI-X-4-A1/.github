@@ -25,8 +25,8 @@
   
   ## 🩺 **Architecture**
   
-  ![Architecture](https://github.com/user-attachments/assets/3d833756-c761-4cbd-9500-84ad59113859)
-  
+  ![yaggugi-architecture](https://github.com/user-attachments/assets/b2873748-ead6-48c4-9367-849456ac9f89)
+
   ## 🩺 **Feature**
   + 영양제 조합 및 추천
     + 추론형모델, 음성인식모델, TTS모델

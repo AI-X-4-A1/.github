@@ -104,6 +104,4 @@
 
 - Yesssung | 박예성 | [깃허브](https://github.com/Yesssung)
 
-- Bigdata92 | 송지섭 | [깃허브](https://github.com/Bigdata92)
-
 - kimkunook | 김건욱 | [깃허브](https://github.com/kimkunook)
